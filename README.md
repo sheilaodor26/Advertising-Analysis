@@ -57,3 +57,5 @@ If the p-value is equal to or greater than the significance level, we reject or 
 
 If the p-value is small (less than 0.05), we can conclude that the new advertising campaign (Ad2) has a statistically significant impact on increasing sales for the Galaxy S23 Ultra. That is, the smaller the p-value, the more substantial the evidence.
 
+# Conducting the R Analysis
+We will be using a one sample t-test. The data set was give and the first step is to load the library (ggplots2), import the dataset (SamsungAdAnalysis_xlsx) and then call the dataset by printing to see what is in it.
