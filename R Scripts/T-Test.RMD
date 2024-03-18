@@ -1,1 +1,2 @@
-
+# One Sample t-test – Greater than 55,000
+t.test(SamsungAdAnalysis_xlsx$SalesAd2, mu = 55000, alternative = "greater")
